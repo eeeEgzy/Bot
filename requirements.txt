@@ -2,6 +2,6 @@ aiogram
 python-dotenv
 qrcode[pil]
 aiogram
-opencv-python
+opencv-python-headless 
 pandas
 pyzbar
