@@ -1,2 +1,2 @@
-# Bot.py
+# bot.py
 Sklad bot 
